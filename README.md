@@ -1,0 +1,1 @@
+# QT_Applied_Project
